@@ -4,4 +4,7 @@ Teaching Git Flow
 =======
 commit 1
 commit 2
+<<<<<<< HEAD
+>>>>>>> e1b7a57... mc2
+=======
 >>>>>>> e1b7a57... mc2
